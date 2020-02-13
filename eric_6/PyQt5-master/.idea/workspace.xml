@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b10816eb-2dbe-4b0f-bad7-8112b3a48828" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Chapter08/qt08_changeStyle.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter07/transParam/CallDialogMainWin2.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter07/transParam/CallDialogMainWin.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Chapter08/qt08_winDraw01.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectId" id="1Xglps0ni3av1CMt3nXywyOxvva" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Python/文件python/alien_invasion" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.colorDialog">
+    <configuration name="colorDialog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter09/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter09/example/colorDialog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="example_pyqt5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter08/QDarkStyleSheet-master/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter08/QDarkStyleSheet-master/example/example_pyqt5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qt08_paint01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter08/qt08_paint01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qt08_winDraw01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter08/qt08_winDraw01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qt08_winDraw02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter08/qt08_winDraw02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.colorDialog" />
+        <item itemvalue="Python.qt08_paint01" />
+        <item itemvalue="Python.example_pyqt5" />
+        <item itemvalue="Python.qt08_winDraw01" />
+        <item itemvalue="Python.qt08_winDraw02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b10816eb-2dbe-4b0f-bad7-8112b3a48828" name="Default Changelist" comment="" />
+      <created>1581475803637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581475803637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Updates" timestamp="1581493644936">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1581493644936" />
+    <state width="560" height="454" key="DebuggerActiveHint" timestamp="1581494138486">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="560" height="454" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1581494138486" />
+    <state x="565" y="171" key="FileChooserDialogImpl" timestamp="1581508311459">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581508311459" />
+    <state width="1515" height="165" key="GridCell.Tab.0.bottom" timestamp="1581508324598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="165" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581508324598" />
+    <state width="1515" height="165" key="GridCell.Tab.0.center" timestamp="1581508324598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="165" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581508324598" />
+    <state width="1515" height="165" key="GridCell.Tab.0.left" timestamp="1581508324598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="165" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581508324598" />
+    <state width="1515" height="165" key="GridCell.Tab.0.right" timestamp="1581508324598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="165" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581508324598" />
+    <state width="1515" height="218" key="GridCell.Tab.1.bottom" timestamp="1581499915991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581499915991" />
+    <state width="1515" height="218" key="GridCell.Tab.1.center" timestamp="1581499915991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581499915991" />
+    <state width="1515" height="218" key="GridCell.Tab.1.left" timestamp="1581499915991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581499915991" />
+    <state width="1515" height="218" key="GridCell.Tab.1.right" timestamp="1581499915991">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="218" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581499915991" />
+    <state x="272" y="58" key="SettingsEditor" timestamp="1581506632302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581506632302" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1581508139743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581508139743" />
+    <state x="449" y="270" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1581477292543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="270" width="671" height="284" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.824@0.0.1536.824" timestamp="1581477292543" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter07/transParam/CallDialogMainWin.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter07/transParam/CallDialogMainWin2.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter08/qt08_changeStyle.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter08/qt08_winDraw01.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="self" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
