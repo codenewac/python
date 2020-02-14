@@ -16,7 +16,6 @@ class MyMplCanvas(FigureCanvas):
     """FigureCanvas的最终的父类其实是QWidget。"""
 
     def __init__(self, parent=None, width=5, height=4, dpi=100):
-
         # 配置中文显示
         plt.rcParams['font.family'] = ['SimHei']  # 用来正常显示中文标签
         plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
@@ -24,7 +23,7 @@ class MyMplCanvas(FigureCanvas):
         self.fig = Figure(figsize=(width, height), dpi=dpi)  # 新建一个figure
         self.axes = self.fig.add_subplot(111)  # 建立一个子图，如果要建立复合图，可以在这里修改
 
-        self.axes.hold(False)  # 每次绘图的时候不保留上一次绘图的结果
+        self.axes.remove_overlapping_locs = False  # 每次绘图的时候不保留上一次绘图的结果
 
         FigureCanvas.__init__(self, self.fig)
         self.setParent(parent)
@@ -73,8 +72,8 @@ class MatplotlibWidget(QWidget):
     def initUi(self):
         self.layout = QVBoxLayout(self)
         self.mpl = MyMplCanvas(self, width=5, height=4, dpi=100)
-        # self.mpl.start_static_plot() # 如果你想要初始化的时候就呈现静态图，请把这行注释去掉
-        #self.mpl.start_dynamic_plot() # 如果你想要初始化的时候就呈现动态图，请把这行注释去掉
+        #self.mpl.start_static_plot() # 如果你想要初始化的时候就呈现静态图，请把这行注释去掉
+        # self.mpl.start_dynamic_plot() # 如果你想要初始化的时候就呈现动态图，请把这行注释去掉
         self.mpl_ntb = NavigationToolbar(self.mpl, self)  # 添加完整的 toolbar
 
         self.layout.addWidget(self.mpl)
@@ -85,6 +84,6 @@ if __name__ == '__main__':
     app = QApplication(sys.argv)
     ui = MatplotlibWidget()
     ui.mpl.start_static_plot()  # 测试静态图效果
-    # ui.mpl.start_dynamic_plot() # 测试动态图效果
+    #ui.mpl.start_dynamic_plot() # 测试动态图效果
     ui.show()
-    sys.exit(app.exec_()) 
+    sys.exit(app.exec_())
